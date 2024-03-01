@@ -28,4 +28,5 @@ public int cantidad(){
  public void metodoComunitario(){
  // Comentario incluido para pruebas
  System.out.println("Aqui escribimos todos");
+ System.out.println("Xian Li Xia");
  }
